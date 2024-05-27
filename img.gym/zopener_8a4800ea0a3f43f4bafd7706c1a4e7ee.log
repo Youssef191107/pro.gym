@@ -1,0 +1,31 @@
+[4400:912:2023-10-15 17:40:1.695] Main Start
+[4400:912:2023-10-15 17:40:1.695] Command line:"C:\Users\hider\Downloads\Zoom_cm_fo42mnktZ9vvrZo4_mWZKzo1OhduwKufOMY4pokWE3Dn9UImta5zQP@oCPafkJt0GobRf6O_kd673cf0120a93695_.exe"  Instance:0x1200000 Show State:1
+[4400:912:2023-10-15 17:40:1.822] C:\
+[4400:3216:2023-10-15 17:40:1.847] [process_requst] start, url:https://us05web.zoom.us/conf/launch
+[4400:3216:2023-10-15 17:40:2.264] HttpSendRequest API failed1, error code: 12157
+[4400:3216:2023-10-15 17:40:2.604] HttpSendRequest API failed, error code: 12157
+[4400:3216:2023-10-15 17:40:2.604] [process_requst] End for url:https://us05web.zoom.us/conf/launch, return code:0, Error:1006, Response content size:0
+[4400:3216:2023-10-15 17:40:2.624] [process_requst] start, url:https://us05web.zoom.us/conf/launch
+[4400:3216:2023-10-15 17:40:2.964] HttpSendRequest API failed1, error code: 12157
+[4400:3216:2023-10-15 17:40:3.294] HttpSendRequest API failed, error code: 12157
+[4400:3216:2023-10-15 17:40:3.294] [process_requst] End for url:https://us05web.zoom.us/conf/launch, return code:0, Error:1006, Response content size:0
+[4400:912:2023-10-15 17:40:3.309] [client_has_installed_app] found path:
+[4400:912:2023-10-15 17:40:3.309]  ***NULL-POINTER-PLACEHOLDER***
+[3604:4160:2023-10-15 17:41:29.721] Main Start
+[3604:4160:2023-10-15 17:41:29.721] Command line:"C:\Users\hider\Downloads\Zoom_cm_fo42mnktZ9vvrZo4_mg4p0N5Y7iAT4AU72gKo5kmLBDQDKDrgDlmel@Riov7qWbxFDNYYg3_kd673cf0120a93695_.exe"  Instance:0xF50000 Show State:1
+[3604:4160:2023-10-15 17:41:29.721] [app_init] init_opener_worker failed.
+[3604:4160:2023-10-15 17:41:29.721] MyMain Failed to init.
+[3604:4160:2023-10-15 17:41:29.721] Main End
+[4400:3216:2023-10-15 17:41:52.448] [process_requst] start, url:https://us05web.zoom.us/conf/launch
+[4400:3216:2023-10-15 17:41:53.263] HttpSendRequest API failed1, error code: 12157
+[4400:3216:2023-10-15 17:41:54.324] HttpSendRequest API failed, error code: 12157
+[4400:3216:2023-10-15 17:41:54.324] [process_requst] End for url:https://us05web.zoom.us/conf/launch, return code:0, Error:1006, Response content size:0
+[4400:912:2023-10-15 17:41:54.384] [client_has_installed_app] found path:
+[4400:912:2023-10-15 17:41:54.384]  ***NULL-POINTER-PLACEHOLDER***
+[4400:3216:2023-10-15 17:42:10.668] [process_requst] start, url:https://us05web.zoom.us/conf/launch
+[4400:3216:2023-10-15 17:42:11.393] HttpSendRequest API failed1, error code: 12157
+[4400:3216:2023-10-15 17:42:12.184] HttpSendRequest API failed, error code: 12157
+[4400:3216:2023-10-15 17:42:12.184] [process_requst] End for url:https://us05web.zoom.us/conf/launch, return code:0, Error:1006, Response content size:0
+[4400:912:2023-10-15 17:42:12.229] [client_has_installed_app] found path:
+[4400:912:2023-10-15 17:42:12.229]  ***NULL-POINTER-PLACEHOLDER***
+[4400:912:2023-10-15 17:42:27.766] Main End
